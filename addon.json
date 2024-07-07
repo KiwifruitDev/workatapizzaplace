@@ -1,0 +1,14 @@
+{
+	"title"		:	"Work at a Pizza Place (2020)",
+	"type"		:	"map",
+	"tags"		:	[ "cartoon", "fun" ],
+	"ignore"	:
+	[
+		"*.pdn",
+		"*.ahk",
+		"*.py",
+        "mapsrc/*",
+        "materialsrc/*",
+        "scripts/*"
+	]
+}
